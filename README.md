@@ -1,2 +1,2 @@
-# Web_Development_resources
+# Web_Development_Resources
 web development repository
